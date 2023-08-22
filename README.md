@@ -25,3 +25,7 @@ Iniciar via terminal o servidor
 ```
 
 - Rodar o comando `npx tsc`
+
+## Exemplo
+
+https://dev.to/rogeriorioli/iniciando-um-projeto-nodejs-express-com-typescript-4bfl
